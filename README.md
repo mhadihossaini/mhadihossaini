@@ -4,13 +4,13 @@
 
 - 🧠 I'm passionate about **AI** and **Data Science**, exploring the limitless possibilities they offer to solve real-world problems.
 - 🌱 Currently, I’m diving deep into **Machine Learning** and **Deep Learning**, focusing on innovative projects that can benefit society.
-- 💞️ Looking to collaborate on projects related to **predictive analytics**, **natural language processing**, and **computer vision**.
+- 💞️ Looking to collaborate on projects related to **Data Science**, **Machine Learning**, and **LLM**.
 - 🤝 Open for partnerships on groundbreaking AI research and development initiatives.
 - 📫 Reach me at m.hadi.hossaini@gmail.com or connect with me on https://www.linkedin.com/in/m-hadi-at-linkdein/.
 
 ## My Interests
 
-- 👀 Intrigued by the intersection of **AI** and **healthcare**, aiming to contribute to medical advancements through data.
+- 👀 Intrigued by the intersection of **AI** and **Data Science**, aiming to contribute to medical advancements through data.
 - 🎓 Lifelong learner committed to staying at the forefront of technology and data science trends.
 - 🚀 Enthusiast in **space exploration** and **astronomy**, dreaming of leveraging AI to discover the unknowns of the universe.
 
@@ -34,10 +34,6 @@
 ## 😄 Pronouns
 
 - He/Him
-
-## ⚡ Fun Fact
-
-- I once participated in a hackathon where my team and I developed a prototype for an app that helps reduce food waste, and we won the second place!
 
 Feel free to connect with me if you share similar interests or have an exciting project in mind!
 
