@@ -27,8 +27,6 @@
 - 🌍 Sustainable technology initiatives aimed at combating climate change.
 
 ## How to Reach Me
-
-- 📧 Email: m.hadi.hossaini@gmail.com
 - 🔗 LinkedIn: (https://www.linkedin.com/in/m-hadi-at-linkdein/)
 
 ## 😄 Pronouns
